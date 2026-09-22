@@ -1,4 +1,4 @@
-# Redis-lite
+# CachkedKV-store
 
 A small Java 17 line-protocol key/value server with TTL, active expiration,
 LRU limits, and an append-only persistence log.
